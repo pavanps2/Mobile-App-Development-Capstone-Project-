@@ -76,11 +76,7 @@ lib/
 
 ## Getting started
 
-See [`SETUP.md`](SETUP.md) for full setup and run instructions, and
-[`SCREENSHOT_CHECKLIST.md`](SCREENSHOT_CHECKLIST.md) for the evidence checklist.
-
 ```bash
-flutter create . --platforms=android,ios --project-name habitt
 flutter pub get
 flutter run
 ```
